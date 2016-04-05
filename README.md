@@ -1,6 +1,10 @@
-# Slack plugin for Jenkins - [![Build Status][jenkins-status]][jenkins-builds] [![Slack Signup][slack-badge]][slack-signup]
+# RocketChat plugin for Jenkins - [![Build Status][jenkins-status]][jenkins-builds] [![Slack Signup][slack-badge]][slack-signup]
 
-Started with a fork of the HipChat plugin:
+Started with a fork of the Slack plugin:
+
+https://github.com/jenkinsci/slack-plugin
+
+Which was a fork of the Hipchat plugin
 
 https://github.com/jlewallen/jenkins-hipchat-plugin
 
